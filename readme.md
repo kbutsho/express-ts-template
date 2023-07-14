@@ -1,1 +1,1 @@
-Live link: https://express-ts-server.vercel.app
+Live link: https://express-ts-template.vercel.app
